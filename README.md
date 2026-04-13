@@ -50,7 +50,7 @@ In GenAI, traditional metrics (Accuracy/F1) aren't enough. AI-300 covers:
 ## Knowledge Map (Technical Weighting)
 
 | Domain | Weight | Key Technical Focus |
-| :--- | :--- | :--- |
+| :--- | :---: | :--- |
 | **Infrastructure** | 20% | Bicep, Azure CLI, Networking, IAM |
 | **ML Lifecycle** | 30% | MLflow, Pipelines, Managed Endpoints |
 | **GenAIOps** | 25% | Microsoft Foundry, Prompt Flow, Agents |
